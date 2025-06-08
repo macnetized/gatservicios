@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="371.41415mm"
+   height="75.919144mm"
+   viewBox="0 0 371.41415 75.919143"
+   version="1.1"
+   id="svg1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3">
+      <path
+         d="M 0,2000 H 2000 V 0 H 0 Z"
+         transform="translate(-1148.8296,-1161.9104)"
+         id="path3" />
+    </clipPath>
+  </defs>
+  <g
+     id="layer1"
+     transform="translate(-96.722879,-112.42464)">
+    <path
+       id="path2"
+       d="m 0,0 h -55.223 -5.741 l -67.633,67.633 c -3.061,3.061 -8.024,3.061 -11.085,0 -3.061,-3.061 -3.061,-8.024 0,-11.085 l 67.64,-67.639 1.143,-1.144 v -3.441 -135.736 l -55.679,55.686 -15.675,15.675 h -22.17 -64.614 v 79.252 l 78.886,78.894 H -25.148 L 52.947,0 H 15.676 Z m 75.117,0 -11.085,11.085 -67.01,67.01 -15.676,15.676 h -22.17 -93.651 -22.163 L -172.313,78.095 -229.037,21.371 -244.713,5.696 v -22.17 -63.577 h -22.416 -22.17 l -15.676,-15.675 -56.716,-56.717 -15.676,-15.675 v -22.17 -91.016 -7.838 c 0,-4.329 3.51,-7.838 7.838,-7.838 v 0 c 4.329,0 7.838,3.509 7.838,7.838 v 7.838 106.691 l 78.886,78.887 h 38.092 15.676 80.29 l 74.661,-74.662 h -45.176 -15.676 -51.79 -4.59 l -61.916,61.916 c -3.061,3.061 -8.024,3.061 -11.085,0 -3.061,-3.061 -3.061,-8.024 0,-11.085 l 50.831,-50.831 11.085,-11.084 v -4.591 -95.241 -7.838 c 0,-4.329 3.509,-7.838 7.838,-7.838 4.328,0 7.837,3.509 7.837,7.838 v 7.838 84.156 11.085 h 11.085 40.705 v -95.241 -7.838 c 0,-4.329 3.509,-7.838 7.838,-7.838 4.329,0 7.838,3.509 7.838,7.838 v 7.838 95.241 h 48.363 v -95.241 -7.838 c 0,-4.329 3.509,-7.838 7.838,-7.838 4.329,0 7.838,3.509 7.838,7.838 v 7.838 92.053 3.188 15.675 3.3 139.178 12.234 H -45.288 0 v -265.628 -7.838 c 0,-4.329 3.509,-7.838 7.838,-7.838 4.329,0 7.838,3.509 7.838,7.838 v 7.838 265.628 h 48.356 v -265.628 -7.838 c 0,-4.329 3.509,-7.838 7.837,-7.838 h 0.001 c 4.328,0 7.837,3.509 7.837,7.838 v 7.838 254.543 11.085 11.085 z"
+       style="display:inline;fill:#00b592;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       transform="matrix(0.16570419,0,0,-0.16570419,165.41642,133.54792)"
+       clip-path="url(#clipPath3)" />
+    <g
+       id="g1"
+       transform="translate(0.62807063,-11.693107)">
+      <g
+         id="g2">
+        <text
+           xml:space="preserve"
+           style="font-size:16.1945px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#00b592;fill-opacity:1;stroke-width:1.34954;-inkscape-font-specification:'Cantarell, Normal';font-family:Cantarell;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+           x="194.40915"
+           y="186.2298"
+           id="text7"><tspan
+             id="tspan7"
+             x="194.40915"
+             y="186.2298"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Normal';fill:#00b592;fill-opacity:1;stroke-width:1.34954;font-size:16.19449964px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">Gestión de alojamientos turísticos</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:34.6787px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;display:inline;fill:#00b592;fill-opacity:1;stroke-width:2.88986"
+           x="192.51836"
+           y="162.76453"
+           id="text7-3"><tspan
+             id="tspan7-6"
+             x="192.51836"
+             y="162.76453"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Rinter;-inkscape-font-specification:Rinter;fill:#00b592;fill-opacity:1;stroke-width:2.88986">GAT SERVICIOS</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

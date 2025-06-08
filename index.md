@@ -1,13 +1,13 @@
 ---
-title: Jekyll Serif Theme
+title: GAT Servicios
 layout: home
-description: Jekyll Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
-intro_image: "images/illustrations/pointing.svg"
+description: Nos ocupamos de cada detalle con profesionalismo y distinción, para que tú solo disfrutes de los beneficios sin preocupaciones.
+intro_image: "images/illustrations/cda_atardecer.jpg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
 show_call_box: true
 ---
 
-# Serif - A Jekyll Business Theme.
+# Tu socio estratégico en gestión sin complicaciones. 
 
-Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+Nos ocupamos de cada detalle con profesionalismo y distinción, para que tú solo disfrutes de los beneficios sin preocupaciones.
