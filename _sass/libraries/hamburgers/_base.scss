@@ -57,7 +57,7 @@
 .hamburger-inner {
   display: block;
   top: 50%;
-  margin-top: math.div($hamburger-margin, 2);
+  margin-top: math.div($hamburger, $divider);
 
   &,
   &::before,
